@@ -9,7 +9,6 @@
 [![Version](https://img.shields.io/badge/version-2.5.0-F77F00?style=for-the-badge&logo=semanticrelease&logoColor=white)](https://github.com)
 [![Chrome](https://img.shields.io/badge/Chrome%20%7C%20Firefox%20%7C%20Edge-FCBF49?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com)
 [![License](https://img.shields.io/badge/license-MIT-D62828?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Speed](https://img.shields.io/badge/open-100%20tabs-%3C%203s-EA8C00?style=for-the-badge&logo=speedtest&logoColor=white)](https://github.com)
 
 <br/>
 
